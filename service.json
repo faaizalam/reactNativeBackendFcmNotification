@@ -1,0 +1,13 @@
+// {
+//   "type": "service_account",
+//   "project_id": "bloggapp2-ad34c",
+//   "private_key_id": "ea7af9aa886d90bc4187227b3ae92ec691dd462a",
+//   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDHRufPbruyZdc2\nKfd3/tTsQb/1FPv5fbCY8OxtXKJZPnwcVA9scVBMYH4rTx0sl/4TBvaiVmgVyOWQ\nV6fTBSsNODUNDTm2K9vrAHuItWUPzSVntwx7o8hej66eHsxNZ3S8hi6iRYtc7x16\nL4B5o16pnDDGM2UkjI0BgQu2Yck4KKRaO8XLolxlOWxH7ygPTSfXu5RBqMTNHGIe\n9xEhiHWA34EDxHIwNXXfJFsn6Hl3Q2i+IsohTQLwRun9JooljndpnLVtbvt/VE8O\n+12LTZrvQC4y3ccrLVRJy8p7V91pkNNLLOSpd3tTWK/1zj+TXaWnngJqj+o1f2WK\n+M0YtPDBAgMBAAECggEAAWjLd+iZFDxrJrtqQCOBvwACCwowdAXDC3ncujNHBKmP\n+CVSDJrKjhe6nLTNCIU0q07HzMMerlTC5t/v1Gq7cLb+jQ6UY2jw/7r7pK5fvhpd\n0tt1D6TLZHvQqNaf7EY4iaLLTqN+RlR8mWIfnvycTUfJAoXXh8gksSeH/Sy43xhL\nRaocbZkCOqTmROpdgFSCqzVDGWGo3FbFtkJ0CKnWMrtM0BNbWW7nCjpa2BHgrT9i\nYk9RO1IuvkMPvYj6m9sxubcGP/G77l265fwbCLZpVKoGetaz5uxZxUFPeUbv2iCv\nZ1SdmICs4GTJNOXP7Isc21Xp1G34p6bVPUI6AXV3/wKBgQD+PArDORFjejDw+jkI\ni34CBQAbeEm38BYx7Z/l6DB98I9whTS6aAmtVrwW+YgpJYb+80kepiM9k9C7TCD2\nQLqdSBPbDKzYWjscyTU2LKKqHOYlykoyXJPZXukAC6SUEzclSzv18p+DaH25ybO5\nbawD7cfCr0D7h7v4qnLioH/HrwKBgQDIqSoODlIahnCkRwJjnlBkHVVmNGDZf5vW\nswtWyvOFeNcU+0q4LI3Vt2mbfTxG3FWb8jra53cPZxBHN2Px4RHxYOnN99Oaqquw\n6UIjmp/e1F1EaQcowk8WD5IGlz2SNTDKb3+/bPWVkQOAbURSlctepc3fcE2BQGku\nahHIZkV6jwKBgQDui/35QfHb6kpDwjWDnAdm87QvEkXxbjgVLwbqnVvqv66HgKWC\nBp6V451m3UpyeUDatgI03OSSIcEoDP2csg2oCHqA/bqs4rU2hGEGbQlQHv+gE9hc\nutsLie+MWGBbhFApERe45afgkEnv6p9VbN+LbDAUr4aEvM6WO7DCjqB3BwKBgQC0\no8UePjofcuO4n8xAzeZlGhslFQYTBtPN5gTRL4cmovBNDSPoxQMyYBkMRyOaTwQq\njVf6dOEz1n5K/kxVFV7Hw4z3RKET3Y0OiA5oaux89wS3by1ovfPgUkgM8t4U3xl7\nRADm3ToAWTmjxbn59qvMGstI2JqNPuTxSb+Ufq0RdQKBgQCTqmi5Mau1Wy0WiDiT\nZkPsVQHBV5yzet10pfOHSH7oOzF8vQ3lHjypBX7ZZxdI2X2lP38Iimf5p2iyITad\nk7ohA0PhAa1eeM5YjnP/B6dPvDy+ij3hVi5BTmFbh2r4l/NqXRLz5049pP2TmIhd\nD2WpQCLcxcbTOBsamSfxcYsDpA==\n-----END PRIVATE KEY-----\n",
+//   "client_email": "firebase-adminsdk-qqq99@bloggapp2-ad34c.iam.gserviceaccount.com",
+//   "client_id": "110492016124789320286",
+//   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+//   "token_uri": "https://oauth2.googleapis.com/token",
+//   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+//   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qqq99%40bloggapp2-ad34c.iam.gserviceaccount.com",
+//   "universe_domain": "googleapis.com"
+// }
